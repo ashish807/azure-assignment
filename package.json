@@ -2,7 +2,7 @@
   "name": "azure-node",
   "version": "1.0.0",
   "description": "This is the demo for the VM and App Service",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
